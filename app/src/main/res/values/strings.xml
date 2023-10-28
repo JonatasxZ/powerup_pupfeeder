@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PupFeeder</string>
+    <string name="activity_main_usuario">Usuário</string>string>
+    <string name="activity_main_senha">Senha</string>string>
+    <string name="activity_main_entrar">Entrar</string>string>
+    <string name="activity_main_esqueci">Esqueci a senha</string>string>
+    <string name="activity_main_cadastrar">Cadastrar senha</string>string>
+    <string name="activity_main_menu">Voltar menú</string>string>
 </resources>

@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/202109069934/AndroidStudioProjects/PupFeeder/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/202109069934/AndroidStudioProjects/PupFeeder/app/src/main/res/drawable/ic_login_background.xml" value="0.1815" />
+        <entry key="..\:/Users/202109069934/AndroidStudioProjects/PupFeeder/app/src/main/res/drawable/ic_login_pupfeed_background.xml" value="0.1815" />
+        <entry key="..\:/Users/202109069934/AndroidStudioProjects/PupFeeder/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/202109069934/AndroidStudioProjects/PupFeeder/app/src/main/res/layout/activity_tela_selecao.xml" value="0.21" />
       </map>
     </option>
   </component>
