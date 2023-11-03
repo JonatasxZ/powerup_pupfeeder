@@ -5,6 +5,9 @@
     <string name="activity_main_entrar">Entrar</string>string>
     <string name="activity_main_esqueci">Esqueci a senha</string>string>
     <string name="activity_main_cadastrar">Cadastrar senha</string>string>
-    <string name="activity_main_menu">Voltar menú</string>string>
+    <string name="activity_main_listas">Listas</string>string>
     <string name="activity_main_falha_autenticaçao">Usuário ou senha incorretos</string>string>
+
+    <string name="activity_main_tela_lista_simples">Lista nova</string>
+    <string name="activity_main_tela_lista_cadastradas">Lista cadastradas</string>
 </resources>
