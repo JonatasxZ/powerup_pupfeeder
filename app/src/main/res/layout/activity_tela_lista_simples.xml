@@ -9,17 +9,17 @@
     tools:context=".TelaListaSimples">
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/buttonListaNova"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/activity_main_tela_lista_simples" />
+        android:text="@string/activity_tela_lista_simples" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="@string/activity_main_tela_lista_cadastradas" />
+        android:text="@string/activity_tela_lista_cadastradas" />
 
     <ListView
         android:id="@+id/ListViewListaSimples"

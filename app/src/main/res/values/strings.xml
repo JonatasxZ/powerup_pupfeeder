@@ -5,9 +5,28 @@
     <string name="activity_main_entrar">Entrar</string>string>
     <string name="activity_main_esqueci">Esqueci a senha</string>string>
     <string name="activity_main_cadastrar">Cadastrar senha</string>string>
-    <string name="activity_main_listas">Listas</string>string>
     <string name="activity_main_falha_autenticaçao">Usuário ou senha incorretos</string>string>
 
-    <string name="activity_main_tela_lista_simples">Lista nova</string>
-    <string name="activity_main_tela_lista_cadastradas">Lista cadastradas</string>
+    <string name="activity_tela_listas">Listas</string>string>
+
+    <string name="activity_tela_lista_simples">Lista nova</string>
+    <string name="activity_tela_lista_cadastradas">Lista cadastradas</string>
+
+    <string name="activity_tela_cadastro_lista">Raridade</string>
+    <string name="activity_tela_cadastro_lista_quantidade">Quantidade</string>
+    <string name="activity_tela_cadastro_tipo">Tipo</string>
+    <string-array name="activity_tela_cadastro_tipo_lista">
+        <item>Standard</item>
+        <item>Premium</item>
+        <item>Super Premium</item>
+    </string-array>
+    <string name="activity_tela_cadastro_tamanho">Tamanho</string>
+    <string-array name="activity_tela_cadastro_tamanho_lista">
+        <item>Pequena</item>
+        <item>Media</item>
+        <item>Grande</item>
+        <item>Super Grande</item>
+        <item>Larga</item>
+    </string-array>
+    <string name="activity_tela_cadastro_lista_salvar">Salvar</string>
 </resources>
