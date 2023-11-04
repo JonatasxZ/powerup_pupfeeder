@@ -54,7 +54,7 @@ public class TelaCadastroListas extends AppCompatActivity {
             valores.put("tipo", tipo.getSelectedItem().toString());
             valores.put("tamanho", tamanho.getSelectedItem().toString());
 
-            long resultado = db.insert("raridade",null, valores);
+            long resultado = db.insert("listas",null, valores);
 
             if (resultado != -1) {
                 Toast.makeText(this, getString(R.string.activity_tela_cadastro_lista_salvo_com_sucesso), Toast.LENGTH_SHORT).show();
