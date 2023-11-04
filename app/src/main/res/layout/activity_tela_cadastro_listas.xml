@@ -15,7 +15,7 @@
         android:text="@string/activity_tela_cadastro_lista" />
 
     <EditText
-        android:id="@+id/editTextText"
+        android:id="@+id/editTextTelaCadastroListaRaridade"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:ems="10"
@@ -30,7 +30,7 @@
         android:text="@string/activity_tela_cadastro_lista_quantidade" />
 
     <EditText
-        android:id="@+id/editTextText2"
+        android:id="@+id/editTextTelaCadastroListaQuantidade"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:ems="10"
@@ -45,7 +45,7 @@
         android:text="@string/activity_tela_cadastro_tipo" />
 
     <Spinner
-        android:id="@+id/spinner"
+        android:id="@+id/spinnerTelaCadastroListaTipo"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:entries="@array/activity_tela_cadastro_tipo_lista" />
@@ -58,13 +58,13 @@
         android:text="@string/activity_tela_cadastro_tamanho" />
 
     <Spinner
-        android:id="@+id/spinner2"
+        android:id="@+id/spinnerTelaCadastroListaTamanho"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:entries="@array/activity_tela_cadastro_tamanho_lista" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonTelaCadastroListaSalvar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"

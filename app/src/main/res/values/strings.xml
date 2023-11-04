@@ -29,4 +29,7 @@
         <item>Larga</item>
     </string-array>
     <string name="activity_tela_cadastro_lista_salvar">Salvar</string>
+    <string name="activity_tela_cadastro_lista_salvo_com_sucesso">Lista salva com sucesso!</string>
+    <string name="activity_tela_cadastro_lista_erro_ao_salvar">Erro ao salvar lista</string>
+    <string name="activity_tela_cadastro_lista_campos_vazios">Preencha os campos vazios!</string>
 </resources>
